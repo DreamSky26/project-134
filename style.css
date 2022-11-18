@@ -1,6 +1,7 @@
 
 .heading
 {
+font-family: Raleway;
 font-size: 23px;
 width: 100%;
 margin: 0px;
@@ -8,6 +9,7 @@ margin: 0px;
 
 #status,#Number_of_objects
 {
+font-family: Raleway;
 font-size: 18px;
 margin: 0px;
 }
@@ -17,7 +19,7 @@ body{
     background-position: center;
 }
 canvas{
-    box-shadow: 7px 7px 7px grey;
+    box-shadow: 7px 7px 7px pink;
     border-radius: 10px;
     margin-top: 30px;
 }
