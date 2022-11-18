@@ -2,7 +2,7 @@ alarm_sound="";
 objects = [];
 
 function preload(){
-    alarm_sound = loadSound("alarmsound.mp3");
+    alarm_sound = loadSound("emergency-alarm-with-reverb-29431.mp3");
 }
 
 function setup(){
